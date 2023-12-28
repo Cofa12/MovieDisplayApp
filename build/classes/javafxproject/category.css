@@ -1,0 +1,47 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 15, 2023, 1:47:32 PM
+    Author     : Dell
+*/
+
+
+textWrittingPlace{
+    -fx-width:100%;
+    -fx-height:70px;
+}
+Button{
+    -fx-textFill:white;
+    -fx-background-color:#2456a4;
+    -fx-border-style: solid inside;
+    -fx-border-width: 2;
+    -fx-border-color: #DDD;
+    -fx-text-fill: #FFF;
+}
+
+Button:hover{
+    -fx-opacity:0.6;
+}
+/*#btnRed{
+-fx-background-color: red;
+}
+#btnGreen{
+    -fx-background-color: green;
+}
+
+#btnBlack{
+    -fx-background-color: black;
+}
+
+#btnWhite{
+    -fx-background-color: white;
+}*/
+
+
+/*to make the textfield unwriitenalbe*/ 
+/*TextField{
+    -fx-writtin
+}*/
+
